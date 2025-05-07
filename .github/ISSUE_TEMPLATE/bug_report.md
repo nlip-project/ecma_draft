@@ -1,31 +1,23 @@
 ---
-name: 🐞 Bug Report
-about: Report a bug to help improve the NLIP Project
-title: "[Bug] <short description>"
-labels: bug
+name: 🐞 Error Report
+about: Report a Error in the ECMA Draft 1 NLIP Specifications
+title: "[Error] <short description>"
+labels: error
 assignees: ''
 
 ---
+## 🐛 Relevant Document
+Which of the three documents does this error report to
+- [] NLIP Specification (TC56-2025-08)
+- [] NLIP Binding to HTTPS/REST (TC56-2025-09)
+- [] NLIP Overview (TC56-2025-10)
 
-## 🐛 Describe the bug
-A clear and concise description of what the bug is.
+## 🐛 Describe the error
+A clear and concise description of what the error is.
 
-## ✅ To Reproduce
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Run '...'
-3. See error
 
-## 💡 Expected behavior
-A clear and concise description of what you expected to happen.
-
-## 🖼️ Screenshots or logs
-If applicable, add screenshots or paste logs.
-
-## 🧠 Environment (please complete the following information):
-- OS: [e.g. Ubuntu 22.04]
-- Python version: [e.g. 3.10]
-- Relevant packages: [e.g. `transformers==4.39.0`]
+## 💡 Suggested Corrections
+A clear and concise description of what corrections you would like in the document
 
 ## 📎 Additional context
 Add any other context or links about the issue here.
