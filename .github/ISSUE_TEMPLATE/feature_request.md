@@ -6,7 +6,7 @@ labels: enhancement
 assignees: ''
 
 ---
-## 🐛 Relevant Document
+## :memo: Relevant Document
 Which of the three documents does this error report to
 - [ ] NLIP Specification (TC56-2025-08)
 - [ ] NLIP Binding to HTTPS/REST (TC56-2025-09)
