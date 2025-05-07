@@ -1,7 +1,7 @@
 ---
-name: 💡 Feature Request
+name: 💡 Enhancement Request
 about: Suggest an idea or enhancement for the NLIP Draft Specifications
-title: "[Feature] <short description>"
+title: "[enhancement] <short description>"
 labels: enhancement
 assignees: ''
 
@@ -13,7 +13,7 @@ Which of the three documents does this error report to
 - [ ] NLIP Overview (TC56-2025-10)
 
 
-## 🧩 Describe the feature you'd like
+## 🧩 Describe the enhancement you'd like
 A clear and concise description of what you want to happen.
 
 ## 🔄 Alternatives you've considered
