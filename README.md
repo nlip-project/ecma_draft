@@ -7,9 +7,11 @@ This is the repository to solicit feedback on the First Draft of proposed standa
 # Directions
 
 There are three documents in this repository 
-* NLIP Specification -- the official standards track NLIP protocol specification
-* NLIP Binding to HTTPS/REST -- the official standards track binding of NLIP to REST
-* NLIP Overview - A non-standard technical report on motivation and use-cases of NLIP.
+* [NLIP Specification](https://github.com/nlip-project/ecma_draft1/blob/main/tc56-2025-008.pdf) -- the official standards track NLIP protocol specification
+* [NLIP Binding to HTTPS/REST](https://github.com/nlip-project/ecma_draft1/blob/main/tc56-2025-009.pdf) -- the official standards track binding of NLIP to REST
+* [NLIP Overview](https://github.com/nlip-project/ecma_draft1/blob/main/tc56-2025-010.pdf) - A non-standard technical report on motivation and use-cases of NLIP.
+
+To provide feedback please open the error, enhancement or general comment issue in this repository.
 
 We are soliciting community feedback on these specifications. 
 If your employer is a member of Ecma, you can also choose to report the comment on Ecma members site. 
