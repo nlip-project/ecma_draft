@@ -1,6 +1,7 @@
 # Introduction
 
-The Natural Language Interaction Protocol (NLIP) is a specification for a universal application-level protocol which can enable communication between two agents. 
+The Natural Language Interaction Protocol (NLIP) is a specification for a universal application level protocol which can enable communication between two AI Agents, or between a human user interface and an AI Agent. 
+
 The protocol is being standardized by Ecma International. 
 
 This is the repository to solicit feedback on the First Draft of proposed standard of NLIP.
