@@ -4,7 +4,7 @@ The Natural Language Interaction Protocol (NLIP) is a specification for a univer
 
 The protocol is being standardized by Ecma International. 
 
-This is the repository to solicit feedback on the First Draft of proposed standard of NLIP.
+This is the repository to solicit feedback on the drafts of proposed standard of NLIP. 
 
 # Directions
 
@@ -19,4 +19,8 @@ We are soliciting community feedback on these specifications.
 If your employer is a member of Ecma, you can also choose to report the comment on Ecma members site. 
 If your employer is not a member of Ecma, you can comment on the specifications here. 
 
-
+# Time Line for Drafts 
+* First Draft Published: May 6, 2025
+* First Draft Revised: June 26, 2025
+* Second Draft to be Published: July 18, 2025
+* Draft Standard submitted to ECMA General Assembly for approval: 9 October 2025
