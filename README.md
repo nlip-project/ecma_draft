@@ -8,10 +8,11 @@ This is the repository to solicit feedback on the drafts of proposed standard of
 
 # Directions
 
-There are three documents in this repository 
-* [NLIP Specification](https://github.com/nlip-project/ecma_draft1/blob/main/tc56-2025-008.pdf) -- the official standards track NLIP protocol specification
-* [NLIP Binding to HTTPS/REST](https://github.com/nlip-project/ecma_draft1/blob/main/tc56-2025-009.pdf) -- the official standards track binding of NLIP to REST
-* [NLIP Overview](https://github.com/nlip-project/ecma_draft1/blob/main/tc56-2025-010.pdf) - A non-standard technical report on motivation and use-cases of NLIP.
+There are four documents in this repository 
+* [NLIP Specification](https://github.com/nlip-project/ecma_draft/blob/main/tc56-2025-017.pdf) -- the official standards track NLIP protocol specification
+* [NLIP Binding to HTTPS/REST](https://github.com/nlip-project/ecma_draft/blob/main/tc56-2025-018.pdf) -- the official standards track binding of NLIP to REST
+* [NLIP Binding to WebSocket](https://github.com/nlip-project/ecma_draft/blob/main/tc56-2025-020.pdf). -- the offiical standards track binding of NLIP to WebSocket
+* [NLIP Overview](https://github.com/nlip-project/ecma_draft/blob/main/tc56-2025-019.pdf) - A non-standard technical report on motivation and use-cases of NLIP.
 
 To provide feedback please open the error, enhancement or general comment issue in this repository.
 
@@ -22,5 +23,5 @@ If your employer is not a member of Ecma, you can comment on the specifications 
 # Time Line for Drafts 
 * First Draft Published: May 6, 2025
 * First Draft Revised: June 26, 2025
-* Second Draft to be Published: July 18, 2025
+* Second Draft : July 17, 2025
 * Draft Standard submitted to ECMA General Assembly for approval: 9 October 2025
