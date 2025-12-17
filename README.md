@@ -1,3 +1,6 @@
+>[!WARNING]
+>This repo contains early DRAFT documents for NLIP and are considered out of date. Final approved specifications for NLIP can be found [here](https://github.com/nlip-project/nlip_spec).
+
 # Introduction
 
 The Natural Language Interaction Protocol (NLIP) is a specification for a universal application level protocol which can enable communication between two AI Agents, or between a human user interface and an AI Agent. 
